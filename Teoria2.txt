@@ -1,0 +1,1 @@
+Centralizados, donde se tiene un repositorio común y distribuidos, donde cada usuario tiene un repositorio en su equipo. Git pertenece al grupo de control de versiones distribuido
