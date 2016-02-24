@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 13:52#Daniel Pancorbo
+=======
+
+
+13.45#Juan Ortega
+>>>>>>> 6115b5db246a5e8caa83c4ae64358eeaf711f13c
