@@ -1,0 +1,12 @@
+Que es un control de versiones:
+
+Es la gestion y modificacion de los elementos dentro de un proyecto.
+
+
+
+
+
+
+
+
+
