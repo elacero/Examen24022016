@@ -1,0 +1,13 @@
+Tipo de controles de versiones ¿Donde encuadrarias a Git?
+
+git tiene un sistemas de control de versiones distribuidos
+
+
+
+
+
+
+
+
+
+
