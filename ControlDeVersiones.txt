@@ -1,0 +1,1 @@
+Centralizados cuando todos los ordenadores van a un repositorio a buscar la copia del proyecto, y distribuidos cuando cada ordenador tiene su propia copia del proyecto.
