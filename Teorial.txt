@@ -1,0 +1,1 @@
+CONTROL DE VERSIONES - controla los distinto cambios que hemos realizado sobre un proyecto, un documento etc. Guarda cada uno de nuestras versiones, las cuales podemos recuperar en cualquier momento.
