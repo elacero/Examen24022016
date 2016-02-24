@@ -1,0 +1,3 @@
+- ¿Qué entiendes por control de versiones?
+- Un control de versiones es un programa que usamos para trabajar sobre un mismo proyecto y que guarda los cambios que realizamos sobre éste,
+es decir, si lo modificamos queda registrado y además, podemos volver a una versión anterior del proyecto.
