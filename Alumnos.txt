@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 13:52#Juan Antonio Ruiz
+=======
+
+
+13.45#Juan Ortega
+>>>>>>> origin

@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 - Tipos de controles de versiones. ¿Dónde encuadrarías GIT?
 - Hay tres tipos diferentes: Locales, centralizados y distribuidos.
 Git es un control de versiones distribuido ya que se copian todos los datos del servidor para cada persona que participa en el proyecto.
 Es decir, si el servidor se cae todos los usuarios que lo tienen pueden restaurarlo.
  
+=======
+Esta teoria no me la se
+>>>>>>> origin
