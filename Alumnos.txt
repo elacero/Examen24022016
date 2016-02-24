@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 13:30#Jose Cordones
 =======
 <<<<<<< HEAD
@@ -31,12 +32,23 @@
 13:52#Daniel Pancorbo
 >>>>>>> 6b67473c9bfc74963dff94b24826cad6eb09f78b
 =======
+13:52#Juan Antonio Ruiz
+>>>>>>> 18524ef73abe7eb16bef0bea39fb04283b0365cc
+=======
 
 
 13.45#Juan Ortega
+<<<<<<< HEAD
 >>>>>>> 6115b5db246a5e8caa83c4ae64358eeaf711f13c
+=======
+>>>>>>> origin
+>>>>>>> 18524ef73abe7eb16bef0bea39fb04283b0365cc
 =======
 13:58#Marcos Cano
 13:52#Daniel Pancorbo
 13.45#Juan Ortega
+<<<<<<< HEAD
 >>>>>>> 29901451ea053aaa6de536782566c5cf6292d8f8
+=======
+>>>>>>> origin
+>>>>>>> 18524ef73abe7eb16bef0bea39fb04283b0365cc
