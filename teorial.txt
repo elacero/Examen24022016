@@ -1,0 +1,1 @@
+controla los cambios (distintas versiones) de algun proyecto o algun archivo
