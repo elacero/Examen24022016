@@ -1,5 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 13:34#FranciscoJavierCarrascosaRus
+=======
+13:36#JoseLasaga
+=======
+<<<<<<< HEAD
+ +<<<<<<< HEAD
+ 13:20#Luis Garcia
+ 13:06#Pablo Lopez
++=======
++12:45#Profesor#Primer cambio del profesor
++>>>>>>> 4197b8b2e6a7c0418b7b81df3f35b791f1ed2b4b
+>>>>>>> 57ef8444a1bb58a5a726e6d3fa19dc69bb837b27
 =======
 <<<<<<< HEAD
 13:30#Jose Cordones
@@ -15,6 +27,9 @@
 =======
 12:45#Profesor#Primer cambio del profesor
 <<<<<<< HEAD
+13:31/tomasperez
+=======
+<<<<<<< HEAD
 
 13:24#Francisco Martinez Poza
 =======
@@ -26,3 +41,8 @@
 >>>>>>> 6c424a4936cfcd1c90dd7b96db8e78d661dfb749
 >>>>>>> 0eab4688cee7e10b1a802971eed270baaa4eabef
 >>>>>>> 74c08b5710c0c3ab20f46d611de554ccb064a9b2
+<<<<<<< HEAD
+=======
+>>>>>>> 6271ee4710e41170126ba7671e13decad8a69c1a
+>>>>>>> fe4041f55b725d58a250be3bbc743e238adb179c
+>>>>>>> 57ef8444a1bb58a5a726e6d3fa19dc69bb837b27
