@@ -1,3 +1,1 @@
-son plataformas que se encargan de salvaguadar los proyectos en los que suele participar mucha gente
-guardando cada cambio que se realiza en el proyecto aparte de los demas, para que si ocurrieran fallos y se perdiera informacion,
-que esta sea la minima posible.
+un metodo para llevar el control de las versiones que se hace de un programa o un archivo y guardar las versiones y modificaciones que se hacen de dichos archivos en diferentes copias. Para poder recupear una version o para guardar los cambios que realizan varias personas a la vez. Estas versiones se guardan en un servidor y pueden ser consultadas por varios usuarios a los que se les conceden permisos de acceso y despues subir sus modificaciones
