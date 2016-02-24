@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 13:30#Jose Cordones
 =======
 <<<<<<< HEAD
@@ -34,3 +35,8 @@
 
 13.45#Juan Ortega
 >>>>>>> 6115b5db246a5e8caa83c4ae64358eeaf711f13c
+=======
+13:58#Marcos Cano
+13:52#Daniel Pancorbo
+13.45#Juan Ortega
+>>>>>>> 29901451ea053aaa6de536782566c5cf6292d8f8
