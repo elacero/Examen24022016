@@ -1,0 +1,1 @@
+Distribuido porque se replican repositorios enteros al subir y bajarlos
