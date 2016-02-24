@@ -1,0 +1,2 @@
+Git es un software de control de versiones distribuido en el cual quedaremos respaldados en las siguientes modificaciones o borrados futuros que hagamos en nuestros proyectos
+Subiremos al remoto gitHUB.com cuando creamos oportuno, muy util tambien para trabajar en equipo
