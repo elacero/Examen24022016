@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 13:06#Pablo Lopez
+=======
+12:45#Profesor#Primer cambio del profesor
+>>>>>>> 4197b8b2e6a7c0418b7b81df3f35b791f1ed2b4b
