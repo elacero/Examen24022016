@@ -12,8 +12,10 @@
 =======
 12:45#Profesor#Primer cambio del profesor
 <<<<<<< HEAD
-
 13:24#Francisco Martinez Poza
+=======
+<<<<<<< HEAD
+13:38#Antonio Checa Martinez 
 =======
 >>>>>>> 4197b8b2e6a7c0418b7b81df3f35b791f1ed2b4b
 >>>>>>> a396539c8ddca4adbe5e8fe655548f66b82fafaf
