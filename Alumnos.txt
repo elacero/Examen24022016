@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 13:30#Jose Cordones
 =======
 <<<<<<< HEAD
@@ -25,6 +26,9 @@
 =======
 >>>>>>> 6c424a4936cfcd1c90dd7b96db8e78d661dfb749
 >>>>>>> 0eab4688cee7e10b1a802971eed270baaa4eabef
+=======
+13:52#Daniel Pancorbo
+>>>>>>> 6b67473c9bfc74963dff94b24826cad6eb09f78b
 =======
 
 

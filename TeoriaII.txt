@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Lo encuadro como un control de versiones distribuido en el cual se puede trabajar en equipo
+=======
 Esta teoria no me la se
+>>>>>>> 6115b5db246a5e8caa83c4ae64358eeaf711f13c
