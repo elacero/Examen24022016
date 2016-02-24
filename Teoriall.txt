@@ -1,0 +1,1 @@
+Tipos de controles de versiones - (locales, centralizados y distribuidos) - - git pertenece ha control de versiones local
