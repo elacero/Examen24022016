@@ -1,1 +1,28 @@
+<<<<<<< HEAD
 13:34#FranciscoJavierCarrascosaRus
+=======
+<<<<<<< HEAD
+13:30#Jose Cordones
+=======
+<<<<<<< HEAD
+13:11#Amanda
+=======
+<<<<<<< HEAD
+13:15#Moises Campos
+=======
+<<<<<<< HEAD
+13:06#Pablo Lopez
+=======
+12:45#Profesor#Primer cambio del profesor
+<<<<<<< HEAD
+
+13:24#Francisco Martinez Poza
+=======
+>>>>>>> 4197b8b2e6a7c0418b7b81df3f35b791f1ed2b4b
+>>>>>>> a396539c8ddca4adbe5e8fe655548f66b82fafaf
+>>>>>>> 2bfba013b460212cab76146518eba51cd27f7599
+<<<<<<< HEAD
+=======
+>>>>>>> 6c424a4936cfcd1c90dd7b96db8e78d661dfb749
+>>>>>>> 0eab4688cee7e10b1a802971eed270baaa4eabef
+>>>>>>> 74c08b5710c0c3ab20f46d611de554ccb064a9b2
