@@ -1,0 +1,3 @@
+son plataformas que se encargan de salvaguadar los proyectos en los que suele participar mucha gente
+guardando cada cambio que se realiza en el proyecto aparte de los demas, para que si ocurrieran fallos y se perdiera informacion,
+que esta sea la minima posible.

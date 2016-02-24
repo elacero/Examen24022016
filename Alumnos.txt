@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 13:30#Jose Cordones
 =======
 <<<<<<< HEAD
@@ -24,3 +25,8 @@
 =======
 >>>>>>> 6c424a4936cfcd1c90dd7b96db8e78d661dfb749
 >>>>>>> 0eab4688cee7e10b1a802971eed270baaa4eabef
+=======
+
+
+13.45#Juan Ortega
+>>>>>>> 6115b5db246a5e8caa83c4ae64358eeaf711f13c
