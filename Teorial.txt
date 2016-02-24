@@ -1,0 +1,4 @@
+¿Que entiendes pro control de versiones?
+
+Un control de versiones consiste en un programa que nos permite llevar un registro de las ultimas modificaciones realizadas a un proyecto y que nos ayuda tambien a realizar modificaciones sin necesidad de tocar el proyecto original
+
