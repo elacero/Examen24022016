@@ -1,0 +1,8 @@
+Tipo de control de versiones¿Donde encuadraias git?
+
+Los 3 tipos de control de versiones que nosotros conocemos son:
+-El control local, donde tu tienes todas las versiones en una carpeta de tu pc y tu las modificas y administras 
+-El control centralizado,donde todas las versiones se encuentran en una base de datos alojada en un servidor y que tu solo trabajas y actualizas sobre tu rama
+-El control distribuido,Donde todos los usuarios que participen en el proyecto pueden cojerlo de un servidor y llevarse todo el proyecto a su pc para poder realizarle todas las modificaciones posibles.
+Con la posibilidad de subir sus cambios al servidor principal sin estropear los viejos y poder juntar todos los cambios y versiones segun el interes del equipo.
+Git hub es un control de versiones distribuido
