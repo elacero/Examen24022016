@@ -1,0 +1,1 @@
+Un sistema de control de versiones es aquel donde se guardan todos los cambios realizados en una serie de archivos
