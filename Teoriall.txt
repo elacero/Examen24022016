@@ -1,0 +1,14 @@
+Encontramos varios tipos de controles de versiones:
+
+- Locales: es el más básico y es tan sencillo como realizar una gestión manual de archivos (copiándolos a otro directorio y quizás anotando cambios).
+           Es una técnica sencilla, pero como todo método manual, puede ser muy propensa a cometer errores y, llegados a ese extremo, no se suele
+           disponer de medios para deshacer los cambios.
+
+- Centralizados: se trata de un único sistema (un servidor) que dispone de todos los archivos, así como sus versiones, y los clientes los descargan
+                 desde dicho servidor para trabajar con ellos. Es un sistema que ha sido empleado durante mucho tiempo.
+
+- Distribuidos: los archivos también se encuentran en un servidor, pero los clientes descargan instantáneas del repositorio entero y trabajan sobre él.
+                Tiene ventajas tales como el trabajo jerarquizado o poder seguir trabajando si el servidor cae.
+
+
+GitHub se encuentra en el último grupo, en el de DISTRIBUIDOS.
