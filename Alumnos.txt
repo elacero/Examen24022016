@@ -20,6 +20,9 @@
 =======
 12:45#Profesor#Primer cambio del profesor
 <<<<<<< HEAD
+13:31/tomasperez
+=======
+<<<<<<< HEAD
 
 13:24#Francisco Martinez Poza
 =======
@@ -31,5 +34,9 @@
 >>>>>>> 6c424a4936cfcd1c90dd7b96db8e78d661dfb749
 >>>>>>> 0eab4688cee7e10b1a802971eed270baaa4eabef
 >>>>>>> 74c08b5710c0c3ab20f46d611de554ccb064a9b2
+<<<<<<< HEAD
 
 13:47#Marcos Cano
+=======
+>>>>>>> 6271ee4710e41170126ba7671e13decad8a69c1a
+>>>>>>> fe4041f55b725d58a250be3bbc743e238adb179c
