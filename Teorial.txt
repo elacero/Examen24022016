@@ -1,0 +1,3 @@
+Por control de versiones entendemos a la correcta gestión, análisis y registro sobre los cambios que se llevan a cabo en un determinado producto, que en el caso que nos compete se trataría de un programa informático.
+
+Si bien sería posible realizar este control de manera manual, en proyectos que alcancen una mínima complejidad o demasiadas personas trabajando en él simultáneamente esto se hace prácticamente imposible, por lo que existen herramientas que nos ayudan con esta tarea, no solo haciendo un exhaustivo seguimiento de todo lo que ocurre en lo relativo al desarrollo de un producto, sino también permitiéndonos ver de manera detallada el estado actual del mismo.
